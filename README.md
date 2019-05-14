@@ -1,2 +1,2 @@
 # RNAseq_analysis
-RNAseq_analysis_pipelines
+RNAseq_analysis_SysBio
